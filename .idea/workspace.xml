@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21a16c04-04fd-469c-abfe-f4799aba1cfa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-9527/target/classes/META-INF/cloud-gateway-9527.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-9527/target/cloud-gateway-9527-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-9527/target/cloud-gateway-9527-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-9527/target/cloud-gateway-9527-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-9527/target/cloud-gateway-9527-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-9527/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-9527/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-9527/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-9527/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="atguigu.cloud" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1aABSI13VOZ64ODwIkgGWTOjBvm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cloud-alibaba-order-9004" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.controller" />
+      <recent name="com" />
+      <recent name="com.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\atguigu-cloud\cloud-stream-rabbitmq-consumer-8802\src\main\java\com" />
+      <recent name="D:\workspace\atguigu-cloud\cloud-stream-rabbitmq-consumer-8802\src\main\resources" />
+      <recent name="D:\workspace\atguigu-cloud\cloud-stream-rabbitmq-provider-8801\src\main\resources" />
+      <recent name="D:\workspace\atguigu-cloud\cloud-provider-payment-9002\src\main\java" />
+      <recent name="D:\workspace\atguigu-cloud\cloud-provider-payment-9002\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaApplication7001">
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-api-commons" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-server-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ConfigServerApplication3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.EurekaApplication7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-gateway-9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.GatewayApplication9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardApplication6001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-hystrix-dashboard-6001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.HystrixDashboardApplication6001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order-80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.OrderApplication80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentApplication9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment-9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.PaymentApplication9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentApplication9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment-9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.PaymentApplication9002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqConsumerApplication8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-stream-rabbitmq-consumer-8802" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.RabbitmqConsumerApplication8802" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqProviderApplication8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-stream-rabbitmq-provider-8801" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.RabbitmqProviderApplication8801" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication3344" />
+      <item itemvalue="Spring Boot.HystrixDashboardApplication6001" />
+      <item itemvalue="Spring Boot.OrderApplication80" />
+      <item itemvalue="Spring Boot.PaymentApplication9002" />
+      <item itemvalue="Spring Boot.EurekaApplication7001" />
+      <item itemvalue="Spring Boot.GatewayApplication9527" />
+      <item itemvalue="Spring Boot.PaymentApplication9001" />
+      <item itemvalue="Spring Boot.RabbitmqConsumerApplication8802" />
+      <item itemvalue="Spring Boot.RabbitmqProviderApplication8801" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaApplication7001" />
+        <item itemvalue="Spring Boot.PaymentApplication9001" />
+        <item itemvalue="Spring Boot.RabbitmqConsumerApplication8802" />
+        <item itemvalue="Spring Boot.RabbitmqProviderApplication8801" />
+        <item itemvalue="Spring Boot.GatewayApplication9527" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.22660479" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21a16c04-04fd-469c-abfe-f4799aba1cfa" name="Default Changelist" comment="" />
+      <created>1586168515416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586168515416</updated>
+      <workItem from="1586168518534" duration="3607000" />
+      <workItem from="1586174265680" duration="7791000" />
+      <workItem from="1586221400730" duration="15425000" />
+      <workItem from="1586260169804" duration="1099000" />
+      <workItem from="1586263073049" duration="3698000" />
+      <workItem from="1586267103220" duration="428000" />
+      <workItem from="1586267582068" duration="461000" />
+      <workItem from="1586268186508" duration="722000" />
+      <workItem from="1586308009228" duration="13358000" />
+      <workItem from="1586410621696" duration="14903000" />
+      <workItem from="1586500834353" duration="9948000" />
+      <workItem from="1586570365651" duration="11900000" />
+      <workItem from="1586587724906" duration="623000" />
+      <workItem from="1586588982213" duration="6642000" />
+      <workItem from="1586599124363" duration="78000" />
+      <workItem from="1586605752739" duration="143000" />
+      <workItem from="1586606050378" duration="13000" />
+      <workItem from="1586606252984" duration="1025000" />
+      <workItem from="1586671940493" duration="1105000" />
+      <workItem from="1586677084038" duration="47000" />
+      <workItem from="1586677807474" duration="247000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1586592908985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586592908985</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1586593148101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586593148101</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3">
+      <created>1586596757721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586596757721</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
+  </component>
+</project>
